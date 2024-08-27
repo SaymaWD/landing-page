@@ -1,0 +1,206 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{font-family:Tahoma, Geneva, sans-serif;
+     background-color:#dcdcdc;}
+
+/*.container{width:970px;}*/
+
+
+/*Header goes here*/
+
+header{padding-bottom:32px;}
+
+		 
+header .logo{padding:30px 0px 0px 30px;}
+
+		 
+header ul{padding-top:60px;
+          }
+		  
+header ul > li{display:inline;}
+
+header ul > li{padding-right:35px;}
+
+header ul > li:first-child > a{color:#fb773d;}
+
+header ul > li > a{color:#000000;
+                   font-size:14px;}
+
+header ul > li > a:hover{text-decoration:none;
+                         color:#fb773d;
+                         }
+		  
+.account{padding-right:10px;}
+
+
+/*Nav goes here*/
+
+.navCustom{background-color:#e84c3d;
+           border:none;
+           -webkit-box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.65);
+			-moz-box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.65);
+			box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.65);}
+
+.menu > li{border-right:1px solid #FFFFFF;
+           padding:6px 0px;}
+		   
+.menu > li:last-child{border-right:none;}
+
+.menu > li >a{color:#ffffff;
+			  font-size:14px;
+			  font-weight:700;}
+			  
+.menu > li > a:hover{background-color:transparent;}
+			  
+.menu > li:hover{background-color:#405163;
+                 color:#ffffff;}	
+				 
+.menu > .active{background-color:#405163;}
+
+.navbar-toggle{border:1px solid #ffffff;}
+
+.navbar-toggle .icon-bar{background-color:#ffffff;}
+
+/* WELCOME section goes here */
+
+.welcome{padding:30px 0px 20px;
+         }
+		 
+.welcome h1{font-size:36px;
+            font-weight:900;
+			color:#38383a;}
+			
+.welcome h4{font-size:16px;
+            font-weight:bold;
+			color:#e84c3d;
+			padding-bottom:30px;}		  
+
+
+.works{background-color:transparent;}
+
+.works h3{font-size:19px;
+          font-weight:bold;
+		  }
+		   
+.works p{font-size:14px;
+         color:#000000;
+		}
+		 
+.works .experts{padding:7px 35px;}
+
+.experts > p:nth-child(3){padding-top:20px;}
+
+.experts > p:nth-child(3) > .button{background-color:#e84c3d;
+                                    border:none;
+									border-radius:0px;
+									padding: 6px 30px;}
+									
+	
+									
+									
+  /*BUSINESS SERVICES section goes here */
+									
+.businessServices{background-color:#e84c3d;
+                  padding:50px 0px;}
+				  
+.businessServices h2{color:#ffffff;
+                     font-size:30px;
+					 font-weight:600;
+					 letter-spacing:0.1em;
+					 padding-bottom:60px;}
+
+.business{width:65px;
+		 height:65px;
+		 border-radius:100%;
+		 background-color:#f5b2ab;}
+		 
+		 
+.business > img{padding:15px 0px 0px 5px;}
+
+
+.solutions > h4{font-size:16px;
+                font-weight:bold;}
+				
+.solutions > p{font-size:13px;
+               color:#ffffff;}
+			   
+.solutions > .arrowsign{color:#FFFFFF;
+                        border-radius:8px;
+						}
+						
+
+.solutions > a{color:#FFFFFF;
+               font-size:11px;
+			   font-weight:bold;}
+
+.solutions > a:hover{text-decoration:none;
+                     }
+					 
+.strategies{padding:50px 0px;}
+
+.capabilities{padding:55px 0px 50px;}
+
+.capabilities h4{font-size:23px;
+				   font-weight:bold;
+				   padding-bottom:30px;}
+			   
+.chooseUs > p:nth-child(3){font-size:12px;
+						   padding:20px 85px 0px 0px;
+						   text-align:justify;
+						   line-height:1.8em;}
+						   
+.chooseUs > p:nth-child(4) > a{background-color:#e84c3d;
+                               border:none;
+							   border-radius:0px;
+							   padding: 6px 30px;}
+							   
+.capabilities ul{padding:0px;}
+							   
+.capabilities ul > li{list-style:none;
+                      padding:12px 0px;
+					  border-bottom:1px solid #d1d1d1;}
+					  
+.capabilities ul > li > .glyphicon{color:#e84c3d;
+                                   padding-right:10px;
+								   font-size:0.6em;}
+								   
+.loremIpsumDolore{padding-bottom:40px;}
+								   
+.loremIpsum > h5:first-child{color:#e84c3d;
+                             font-size:14px;
+							 font-weight:bold;}
+							 
+.loremIpsum > h5{color:#33322e;
+                 font-size:14px;
+			     font-weight:bold;}
+
+.loremIpsum > p{color:#8c8a8b;
+                font-size:12px;
+			    font-weight:bold;}
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
